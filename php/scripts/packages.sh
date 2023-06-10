@@ -37,4 +37,6 @@ export DEBIAN_FRONTEND=noninteractive
       unzip \
       zip \
       zlib1g-dev \
+      git \
       && rm -rf /var/lib/apt/lists/*
+      
